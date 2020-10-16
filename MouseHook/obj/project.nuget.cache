@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ruBatm50YSOWI7/4sQzd/Lgq29AASTyaHv6hTHwvv04WS1VTcMHQX8D6D3FMtPlkjEcJIXJ9jSizZcnhrKADjw==",
+  "success": true,
+  "projectFilePath": "D:\\Backup of drive\\VSRepos\\DLL's\\MouseHook\\MouseHook\\MouseHook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xenial\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Xenial\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
