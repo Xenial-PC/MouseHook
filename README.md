@@ -2,7 +2,9 @@
 This is a public release of my mouse hook ive been using for 2 years now 
 
 ### How To Use
-~~~ private MouseHook.MouseHook _mh;
+~~~ 
+private MouseHook.MouseHook _mh;
+
 private void YourForm_Load(object sender, EventArgs e)
         {
             _mh = new MouseHook.MouseHook();
